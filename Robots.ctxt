@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Robots
+comment0.text=\r\n\ Classe\ m\u00E8re\ Robots.\r\n\r\n\ @author\ groupe\ 7\r\n\ @version\ novembre\ 2023\r\n
+comment1.params=colorRobot
+comment1.target=Robots(java.lang.String)
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=
+comment3.target=int\ getY()
+comment4.params=color
+comment4.target=void\ setColor(java.lang.String)
+comment5.params=
+comment5.target=void\ goodPosition()
+comment6.params=newX\ newY
+comment6.target=boolean\ collision(int,\ int)
+comment7.params=newX\ newY
+comment7.target=void\ afficherRobot(int,\ int)
+numComments=8

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RainbowRobot
+comment1.params=x\ y
+comment1.target=RainbowRobot(int,\ int)
+comment2.params=
+comment2.target=void\ randomColor()
+comment3.params=direction
+comment3.target=void\ avancer(java.lang.String)
+numComments=4

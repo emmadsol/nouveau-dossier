@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=World
+comment0.text=\r\n\ Draws\ robots\ on\ a\ canvas.\r\n\ \r\n\ @author\ Patrick\ Girard\ \r\n\ @version\ 2021.08\r\n
+comment1.params=colourBody
+comment1.target=World(java.lang.String)
+comment2.params=
+comment2.target=java.util.ArrayList\ getList()
+comment3.params=robot
+comment3.target=void\ setList(Robots)
+comment4.params=color
+comment4.target=void\ setColourbody(java.lang.String)
+comment5.params=x\ y
+comment5.target=void\ afficherRobot(int,\ int)
+comment6.params=x\ y
+comment6.target=void\ afficherCollision(int,\ int)
+numComments=7
