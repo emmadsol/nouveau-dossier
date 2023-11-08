@@ -8,7 +8,7 @@ import java.util.ArrayList;
 public class Robots {
     protected int x;  // Coordonnée x sur le canvas
     protected int y;  // Coordonnée y sur le canvas
-    private World world;
+    private World world;//ok
     private Boolean position = true; 
     protected String color;
     private int width = 4;
